@@ -16,7 +16,7 @@ This project aims to develop an AI-driven phishing detection system that uses ma
 
 ### Installation:
 To run the project locally, clone the repository and install the required dependencies:/n
-
+'''bash  
 git clone https://github.com/giri-yz/Suspicious_email_checker/n
 
 cd Suspicious_email_checker/n
