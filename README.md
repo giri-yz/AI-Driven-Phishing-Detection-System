@@ -54,8 +54,10 @@ To run the phishing detection or URL validation script with your own dataset, us
 
 Make sure to replace the dataset paths in the scripts with your own data files.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Large Model File
+The 3 GB model file can be downloaded from the following link:
+[[Download model file]([https://drive.google.com/your-google-drive-link)](https://drive.google.com/drive/folders/1CnL71kGvGesyV6pNCTEyMp_syXdgMpUr?usp=sharing)]
+
 
 ```
 
