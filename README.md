@@ -55,7 +55,7 @@ To run the phishing detection or URL validation script with your own dataset, us
 Make sure to replace the dataset paths in the scripts with your own data files.
 
 ## Large Model File
-The 3 GB model file can be downloaded from the following link:
+The file can be downloaded from the following link:
 [[Download model file]([https://drive.google.com/your-google-drive-link)](https://drive.google.com/drive/folders/1CnL71kGvGesyV6pNCTEyMp_syXdgMpUr?usp=sharing)]
 
 
