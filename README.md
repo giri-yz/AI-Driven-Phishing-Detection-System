@@ -6,7 +6,7 @@ It leverages multiple datasets for phishing detection, URL validation using **Bl
 
 ---
 
-## 🚀 Features
+##  Features
 
 - **Email Phishing Detection**  
   Uses BERT-based machine learning models to classify emails as phishing or legitimate.
@@ -22,7 +22,7 @@ It leverages multiple datasets for phishing detection, URL validation using **Bl
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - CNN (for URL veerification)
@@ -31,7 +31,7 @@ It leverages multiple datasets for phishing detection, URL validation using **Bl
 
 ---
 
-## 🧩 Installation
+##  Installation
 
 Clone the repository:
 ```bash
@@ -52,18 +52,9 @@ pip install -r requirements.txt
 
 ## ⚙️ Usage
 
-### 1. Phishing Detection
-
-Run the script to classify phishing emails:
+Run the script to start the application:
 ```bash
-python phishing_detection.py
-```
-
-### 2. URL Validation
-
-Run the script to validate URLs:
-```bash
-python url_validation.py
+python main.py
 ```
 
 > **Note:**  
@@ -71,18 +62,18 @@ python url_validation.py
 
 ---
 
-## 📦 Pre-trained Model
+##  Pre-trained Model
 
 The BERT model file needed for phishing detection can be downloaded from:  
-[👉 Download Model File](https://drive.google.com/drive/folders/1PRQr5YKLq5YWdyLNIEhLC76s7Cs7UVOx?usp=drive_link)
+[ Download Model File](https://drive.google.com/drive/folders/1PRQr5YKLq5YWdyLNIEhLC76s7Cs7UVOx?usp=drive_link)
 
 ---
 
-## 📜 License
+##  License
 
 This project is for educational and research purposes only.
 
 ---
 
-# 🔥 Happy Hunting! Stay Secure! 🔥
+#  Happy Hunting! Stay Secure! 
 
