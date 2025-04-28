@@ -1,4 +1,4 @@
-#AI-Driven Phishing Detection System
+# AI-Driven Phishing Detection System
 
 This project develops an AI-driven phishing detection system that uses machine learning models to identify phishing emails and suspicious URLs.
 By analyzing email content, headers, and URLs, the system classifies emails as legitimate or phishing.
