@@ -1,23 +1,23 @@
-Sure! Here’s a full `README.md` file template that you can use for your GitHub repository:
 
-```markdown
-# AI-Driven Phishing Detection System
+
+```
+AI-Driven Phishing Detection System
 
 This project aims to develop an AI-driven phishing detection system that uses machine learning models to identify phishing emails and suspicious URLs. By analyzing email content, headers, and URLs, the system classifies emails as legitimate or phishing. The project leverages several datasets for email phishing detection, URL verification using Bloom filters, and domain legitimacy checking.
 
-## Features:
-- **Email Phishing Detection**: Uses machine learning models (BERT-based) to classify emails as phishing or legitimate.
-- **URL Validation**: Integrates Bloom filters for fast URL validation, checking if the URLs belong to known malicious websites.
-- **Domain Legitimacy Check**: Cross-references domain names with a dataset of legitimate domains to ensure the authenticity of email URLs.
-- **Suspicious Activity Monitoring**: Scans email details and flags suspicious activity based on predefined rules and data patterns.
+# Features:
+*Email Phishing Detection**: Uses machine learning models (BERT-based) to classify emails as phishing or legitimate.
+*URL Validation**: Integrates Bloom filters for fast URL validation, checking if the URLs belong to known malicious websites.
+*Domain Legitimacy Check**: Cross-references domain names with a dataset of legitimate domains to ensure the authenticity of email URLs.
+*Suspicious Activity Monitoring**: Scans email details and flags suspicious activity based on predefined rules and data patterns.
 
-## Technologies Used:
+# Technologies Used:
 - Python
 - BERT (for phishing detection)
 - PyBloom (for URL validation)
 - Pandas, Scikit-learn (for data processing and model training)
 
-## Installation
+# Installation
 
 To run the project locally, follow these steps:
 
@@ -60,13 +60,3 @@ The file can be downloaded from the following link:
 
 
 ```
-
-### What’s in this `README.md`?
-1. **Project Overview**: Briefly explains what your project does.
-2. **Key Features**: Highlights the main features of your system.
-3. **Technologies Used**: Lists the technologies you used.
-4. **Installation Instructions**: Step-by-step guide to clone the repo, install dependencies, and get the project running locally.
-5. **Usage Instructions**: Explains how to run the scripts with your own data.
-6. **License Information**: Provides licensing details (MIT in this case).
-
-You can copy this and upload it to your GitHub repository. Let me know if you need any changes!
