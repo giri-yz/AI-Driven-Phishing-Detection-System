@@ -1,62 +1,72 @@
-
-
-```
 AI-Driven Phishing Detection System
+This project develops an AI-driven phishing detection system that uses machine learning models to identify phishing emails and suspicious URLs. By analyzing email content, headers, and URLs, the system classifies emails as legitimate or phishing. It leverages multiple datasets for phishing detection, URL validation using Bloom filters, and domain legitimacy checking.
 
-This project aims to develop an AI-driven phishing detection system that uses machine learning models to identify phishing emails and suspicious URLs. By analyzing email content, headers, and URLs, the system classifies emails as legitimate or phishing. The project leverages several datasets for email phishing detection, URL verification using Bloom filters, and domain legitimacy checking.
+Features
+Email Phishing Detection:
+Uses BERT-based machine learning models to classify emails as phishing or legitimate.
 
-# Features:
-*Email Phishing Detection**: Uses machine learning models (BERT-based) to classify emails as phishing or legitimate.
-*URL Validation**: Integrates Bloom filters for fast URL validation, checking if the URLs belong to known malicious websites.
-*Domain Legitimacy Check**: Cross-references domain names with a dataset of legitimate domains to ensure the authenticity of email URLs.
-*Suspicious Activity Monitoring**: Scans email details and flags suspicious activity based on predefined rules and data patterns.
+URL Validation:
+Integrates Bloom filters for fast and efficient URL validation, checking if URLs belong to known malicious websites.
 
-# Technologies Used:
-- Python
-- BERT (for phishing detection)
-- PyBloom (for URL validation)
-- Pandas, Scikit-learn (for data processing and model training)
+Domain Legitimacy Check:
+Cross-references domain names against a dataset of legitimate domains to ensure the authenticity of email URLs.
 
-# Installation
+Suspicious Activity Monitoring:
+Scans email details and flags suspicious activity based on predefined rules and data patterns.
 
+Technologies Used
+Python
+
+BERT (for phishing detection)
+
+PyBloom (for URL validation)
+
+Pandas, Scikit-learn (for data processing and model training)
+
+Installation
 To run the project locally, follow these steps:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/giri-yz/Suspicious_email_checker
-   ```
+Clone the repository:
 
-2. Navigate into the project folder:
-   ```bash
-   cd Suspicious_email_checker
-   ```
+bash
+Copy
+Edit
+git clone https://github.com/giri-yz/Suspicious_email_checker
+Navigate into the project folder:
 
-3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+bash
+Copy
+Edit
+cd Suspicious_email_checker
+Install the required dependencies:
 
-## Usage
+bash
+Copy
+Edit
+pip install -r requirements.txt
+Usage
+1. Phishing Detection
+Run the script to classify emails:
 
-To run the phishing detection or URL validation script with your own dataset, use the following commands:
+bash
+Copy
+Edit
+python phishing_detection.py
+2. URL Validation
+Use the URL validation script to check the legitimacy of URLs:
 
-1. **Phishing Detection**:
-   Run the script to classify phishing emails:
-   ```bash
-   python phishing_detection.py
-   ```
+bash
+Copy
+Edit
+python url_validation.py
+Note:
+Make sure to update the dataset paths in the scripts with your own data files before running.
 
-2. **URL Validation**:
-   Use the URL validation script to check the legitimacy of URLs:
-   ```bash
-   python url_validation.py
-   ```
+Pre-trained Model
+The large BERT model file required for phishing detection can be downloaded from the following link:
+Download Model File
 
-Make sure to replace the dataset paths in the scripts with your own data files.
+License
+This project is for educational and research purposes only.
 
-## Large Model File
-The file can be downloaded from the following link:
-[[Download model file]([https://drive.google.com/your-google-drive-link)](https://drive.google.com/drive/folders/1CnL71kGvGesyV6pNCTEyMp_syXdgMpUr?usp=sharing)]
-
-
-```
+🔥 Happy Hunting! Stay Secure 🔥
