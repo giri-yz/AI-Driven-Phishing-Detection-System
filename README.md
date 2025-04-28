@@ -59,13 +59,13 @@ python main.py
 > **Note:**  
 > Update the dataset paths inside the scripts with your own file locations.
 
----
+
 
 ## License
 
 This project is for educational and research purposes only.
 
----
+
 
 #  Project Status
 
@@ -74,7 +74,7 @@ Exciting features like a **dashboard** for visual monitoring and **cloud integra
 
 **Contributions are warmly welcome** to make this project even better! 🚀
 
----
+
 
 # Stay Secure! 
 
