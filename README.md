@@ -25,8 +25,8 @@ It leverages multiple datasets for phishing detection, URL validation using **Bl
 ## 🛠️ Technologies Used
 
 - Python
-- BERT (for phishing detection)
-- PyBloom (for URL validation)
+- CNN (for URL veerification)
+- BERT (for email phishing detection)
 - Pandas, Scikit-learn (for data processing and model training)
 
 ---
