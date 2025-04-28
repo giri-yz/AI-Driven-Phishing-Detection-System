@@ -1,12 +1,12 @@
 # AI-Driven Phishing Detection System
 
-This project develops an AI-driven phishing detection system that uses machine learning models to identify phishing emails and suspicious URLs.
-By analyzing email content, headers, and URLs, the system classifies emails as legitimate or phishing.
+This project develops an **AI-driven phishing detection system** that uses **machine learning models** to identify phishing emails and suspicious URLs.  
+By analyzing email content, headers, and URLs, the system classifies emails as **legitimate** or **phishing**.  
 It leverages multiple datasets for phishing detection, URL validation, and domain legitimacy checking.
 
-A key feature of this system is the development of a Chrome extension that provides real-time phishing detection while browsing.
-Once installed, the extension actively monitors any hyperlink the user hovers over.
-If the link is suspicious, the model immediately alerts the user — offering instant protection against phishing attacks while surfing the internet.
+A **flagship innovation** of this system is the development of a **Chrome extension** that provides **real-time phishing detection** while browsing.  
+Once installed, the extension actively monitors any hyperlink the user hovers over.  
+If the link appears suspicious, the model instantly alerts the user — offering **immediate, on-the-fly protection** against phishing attacks during web surfing.
 
 ---
 
@@ -49,7 +49,7 @@ pip install -r requirements.txt
 
 ---
 
-## ⚙️ Usage
+##  Usage
 
 Run the script to start the application:
 ```bash
@@ -67,4 +67,13 @@ This project is for educational and research purposes only.
 
 ---
 
-# Stay Secure!
+# Stay Secure! 
+
+---
+
+#  Project Status
+
+This project is **still under active development**.  
+Exciting features like a **dashboard** for visual monitoring and **cloud integration** for scalable deployment are currently being worked on!  
+
+**Contributions are warmly welcome** to make this project even better! 🚀
