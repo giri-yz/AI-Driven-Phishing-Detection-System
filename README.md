@@ -37,12 +37,10 @@ If the link is suspicious, the model immediately alerts the user — offering in
 
 ## Installation
 
-Clone the repository:
+Download all the project files from the Google Drive link below and set them up locally.
 ```bash
 https://drive.google.com/drive/folders/1PRQr5YKLq5YWdyLNIEhLC76s7Cs7UVOx?usp=drive_link
 ```
-
-Download all the project files from the above Google Drive link and set them up locally.
 
 Install the required dependencies:
 ```bash
