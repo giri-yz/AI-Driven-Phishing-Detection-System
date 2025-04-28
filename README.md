@@ -74,7 +74,7 @@ python url_validation.py
 ## 📦 Pre-trained Model
 
 The BERT model file needed for phishing detection can be downloaded from:  
-[👉 Download Model File](https://drive.google.com/drive/folders/1CnL71kGvGesyV6pNCTEyMp_syXdgMpUr?usp=sharing)
+[👉 Download Model File](https://drive.google.com/drive/folders/1PRQr5YKLq5YWdyLNIEhLC76s7Cs7UVOx?usp=drive_link)
 
 ---
 
