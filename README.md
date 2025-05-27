@@ -6,7 +6,7 @@
 
 - Additionally, these whole web application can be added to your web-browser as **extensions** that provides **real-time phishing detection** while browsing.  
 - Once installed, the extension actively monitors any hyperlink the user hovers over.  
-- If the link appears suspicious, the model instantly alerts the user — offering **immediate protection ** against phishing attacks during web surfing.
+- If the link appears suspicious, the model instantly alerts the user — offering **immediate protection** against phishing attacks during web surfing.
 
 ---
 
