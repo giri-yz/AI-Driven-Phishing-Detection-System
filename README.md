@@ -72,7 +72,7 @@ This project is for educational and research purposes only.
 This project is **still under active development**.  
 Exciting features like a **dashboard** for visual monitoring and **cloud integration** for scalable deployment are currently being worked on!  
 
-**Contributions are warmly welcome** to make this project even better! 🚀
+**Contributions are warmly welcome** to make this project even better! 
 
 
 
