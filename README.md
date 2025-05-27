@@ -4,9 +4,9 @@ This project develops an **AI-driven phishing detection system** that uses **mac
 By analyzing email content, headers, and URLs, the system classifies emails as **legitimate** or **phishing**.  
 It leverages multiple datasets for phishing detection, URL validation, and domain legitimacy checking.
 
-A **flagship innovation** of this system is the development of a **Chrome extension** that provides **real-time phishing detection** while browsing.  
+Additionally, these whole web application can be added to your web-browser as **extensions** that provides **real-time phishing detection** while browsing.  
 Once installed, the extension actively monitors any hyperlink the user hovers over.  
-If the link appears suspicious, the model instantly alerts the user — offering **immediate, on-the-fly protection** against phishing attacks during web surfing.
+If the link appears suspicious, the model instantly alerts the user — offering **immediate protection ** against phishing attacks during web surfing.
 
 ---
 
