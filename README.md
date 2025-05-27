@@ -16,7 +16,7 @@
   Uses BERT-based machine learning models to classify emails as phishing or legitimate.
 
 - **URL Validation**  
-  Integrates Bloom filters for fast and efficient URL validation, checking if URLs belong to known malicious websites.
+  Uses CNN for fast and efficient URL validation, checking if URLs belong to known malicious websites.
 
 - **Domain Legitimacy Check**  
   Cross-references domain names against a dataset of legitimate domains to ensure the authenticity of email URLs.
