@@ -63,11 +63,11 @@ python main.py
 ---
 ## Credits
 Thanks to [@Itzharikishore](https://github.com/Itzharikishore) and other members of Team **Cyborg_26** for their Contributions!
-       
+<br>
 ---
 ## License
 This project is for educational and research purposes only.
-       
+<br>    
 ---
 
 
