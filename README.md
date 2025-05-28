@@ -60,6 +60,9 @@ python main.py
 > Update the dataset paths inside the scripts with your own file locations.
 
 ---
+##Credits
+Thanks to [@Itzharikishore](https://github.com/Itzharikishore) and other members of Team *cyborg_26* for their Contributions!
+---
 ## License
 This project is for educational and research purposes only.
 
