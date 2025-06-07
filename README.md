@@ -80,18 +80,9 @@ Exciting features like a **dashboard** for visual monitoring and **cloud integra
 
 Thanks to [@Itzharikishore](https://github.com/Itzharikishore) and other members of Team **Cyborg_26** for their Contributions!
 
----
-
 ## License
 
 This project is for educational and research purposes only.  
-
-
-
-
-
-
-
 ---
 # Stay Secure! 
 
