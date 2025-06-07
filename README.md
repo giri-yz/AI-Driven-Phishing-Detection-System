@@ -74,17 +74,23 @@ Exciting features like a **dashboard** for visual monitoring and **cloud integra
 **Contributions are warmly welcome** to make this project even better! 
 
 
+
+## 🙏Credits
+
+Special thanks to [@Itzharikishore](https://github.com/Itzharikishore) and all the amazing members of **Team Cyborg_26** for their valuable contributions, collaboration, and dedication throughout the project.
+
 ---
 
-## Credits
+##  License
 
-Thanks to [@Itzharikishore](https://github.com/Itzharikishore) and other members of Team **Cyborg_26** for their Contributions!
+This project is intended **strictly for educational and research purposes only**.  
 
-## License
 
-This project is for educational and research purposes only.  
 ---
-# Stay Secure! 
+
+##  Stay Secure !
+
+--- 
 
 
 
