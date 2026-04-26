@@ -75,7 +75,7 @@ Exciting features like a **dashboard** for visual monitoring and **cloud integra
 
 
 
-## 🙏Credits
+## Credits
 
 Special thanks to [@Itzharikishore](https://github.com/Itzharikishore) and all the amazing members of **Team Cyborg_26** for their valuable contributions, collaboration, and dedication throughout the project.
 
